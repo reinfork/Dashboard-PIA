@@ -1,0 +1,22 @@
+[
+{
+	"nama": "naufal",
+	"kelas": "A",
+	"prodi": "SI",
+	"matkul": ["PPSI","Audit"],
+	"topik": {
+		"topik1": "ML",
+		"topik2": "VC"
+	}
+},
+{
+	"nama": "izzat",
+	"kelas": "A",
+	"prodi": "SI",
+	"matkul": ["PPSI","Audit"],
+	"topik": {
+		"topik1": "ML",
+		"topik2": "VC"
+	}
+}
+]
